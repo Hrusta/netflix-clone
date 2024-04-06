@@ -1,1 +1,1 @@
-https://hrusta.github.io/netflix-clone/
+Check out the live version of this project: https://hrusta.github.io/netflix-clone/
